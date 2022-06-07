@@ -1945,4 +1945,119 @@ nav{
 	margin-top:0;
 
 } */ 
+.reverseDiv{
+	background: rgb(67,67,193);
+	background: linear-gradient(90deg, rgba(67,67,193,1) 0%, rgba(227,26,26,1) 73%, rgba(255,212,65,1) 100%);
+	margin: 0;
+	border-radius: 10px;
+	
 
+}
+
+
+.button-default{
+
+	background:transparent;
+
+}
+
+
+
+
+.reverseDiv{
+	background:transparent;
+}
+
+.promotionDiv{
+	background:transparent;
+}
+.text2{
+	font-size: 4.2rem;
+	
+}
+
+.t1{
+	margin-left:0;
+}
+.ImgDiv{
+	margin-right:0px;
+}
+.DivImg{
+	margin-right:9px;
+}
+.s1{
+	line-height:3px;
+	font-size: 3rem;
+}
+.reverseDiv{
+	padding-right: 15px;
+}
+
+@media (max-width: 1054px){
+	.HeroText{
+		font-size:2.8rem;
+	}
+	.ptext{
+		font-size:0.9rem;
+	}
+}
+@media(max-width: 954px){
+	.HeroText{
+		font-size:2.6rem;
+	}
+}
+@media(max-width: 898px){
+	.HeroText{
+		font-size:2.3rem;
+	}
+	.button-primary,.button-default{
+
+		font-size: 12px;
+	}
+	.DivImg{
+		margin-left:0.1rem;
+	}
+	.TextDiv2{
+		margin-right: 0.5rem;
+	}
+}
+@media(max-width: 762px){
+	.HeroText{
+		font-size:2.3rem;
+	}
+	.button-primary,.button-default{
+
+		font-size: 12px;
+	}
+	.heroSection-2{
+		margin-right: 0;
+	}
+	.DivImg{
+		margin-left:0rem;
+		margin-right:40px;
+	}
+	.TextDiv2{
+		margin-right: 0.5rem;
+	}
+}
+@media (min-width:878px){
+	.s2,.s3{
+		font-size:3rem;
+	}
+	.ptext{
+		font-size: 0.9rem;
+	}
+	.DivImg{
+		height:300px;
+	}
+}
+@media (max-width: 804px){
+	.DivImg1{
+		margin-top: 0px;
+	}
+}
+@media (max-width:650px){
+	.s1{
+		font-size: 2.3rem;
+	}
+}
