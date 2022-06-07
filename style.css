@@ -1495,7 +1495,7 @@ background-color:#647064;
 	}
 }
 
-@media (max-width:520px){
+/* @media (max-width:520px){
 	.containerFluid{
 		width:100%;
 		margin-left: 0;
@@ -1568,9 +1568,9 @@ background-color:#647064;
 		justify-content: center;
 		flex-direction: column;
 	}
-}
+} */
 
-@media (max-width:560px){
+/* @media (max-width:560px){
 	.containerFluid{
 		width:100%;
 		margin-left: 0;
@@ -1639,7 +1639,7 @@ background-color:#647064;
 		justify-content: center;
 		flex-direction: column;
 	}
-}
+} */
 
 .promotionDiv{
 	background-color:#fff ;
@@ -2048,7 +2048,7 @@ nav{
 		font-size: 0.9rem;
 	}
 	.DivImg{
-		height:300px;
+		height:550px;
 	}
 }
 @media (max-width: 804px){
